@@ -1,7 +1,7 @@
 # Rock, papper & scissors
 
 ## Links
-- [Try Landing Page here!](https://javicavi.github.io/rock-paper-scissors/)
+- [Try the game here!](https://javicavi.github.io/rock-paper-scissors/)
 
 - [Link to the Assignment](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
 
