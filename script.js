@@ -11,7 +11,7 @@ function getComputerChoice() {
 }
 
 // Checks user and computer inputs then return a string
-function playGame() {
+function playGame() { // Begins the game
   let playerScore = 0;
   let computerScore = 0;
 
