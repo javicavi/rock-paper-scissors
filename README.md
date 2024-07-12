@@ -3,9 +3,9 @@
 ## Links
 - [Try the game here!](https://javicavi.github.io/rock-paper-scissors/)
 
-- [Link to the Assignment](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
+- [Link to the Assignment 1/2](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
+
+- [Link to the Assignment 2/2](https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors#sharing-code)
 
 ## About
-Implementation of the classic “rock paper scissors”, for the moment just for the browser console.
-
-Use playGame() in the console to start playing the game.
+Implementation of the classic “rock paper scissors”.
