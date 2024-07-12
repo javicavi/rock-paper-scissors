@@ -3,10 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="./script.js"></script>
+    <!-- defer loads the JavaScript after the DOM has been fully loaded.-->
+    <script src="./script.js" defer></script>
     <title>Rock ~ Paper ~ Scissors</title>
 </head>
 <body>
-    <p>Type playGame() in the console to start playing!</p>
+    <input type="button" value="Rock" id="rockBtn">
+    <input type="button" value="Paper" id="paperBtn">
+    <input type="button" value="Scissors" id="scissorsBtn">
+    <div id="score">
+        <p>Player Score: <span id="playerScr">0</span></p>
+        <p>Computer Score: <span id="computerScr">0</span></p>
+    </div>
+    <div id="roundMsg">
+        <p></p>
+    </div>
+    <input type="button" value="Restart" id="restartBtn">
 </body>
 </html>
